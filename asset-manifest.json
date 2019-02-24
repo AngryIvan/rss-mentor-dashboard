@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a7ed9fe4.chunk.css",
-  "main.js": "/static/js/main.f4b74e29.chunk.js",
-  "main.js.map": "/static/js/main.f4b74e29.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.9ef36d30.chunk.js": "/static/js/2.9ef36d30.chunk.js",
-  "static/js/2.9ef36d30.chunk.js.map": "/static/js/2.9ef36d30.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.ad6bbecde4dd908edb98d31fc8229a24.js": "/precache-manifest.ad6bbecde4dd908edb98d31fc8229a24.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.a7ed9fe4.chunk.css.map": "/static/css/main.a7ed9fe4.chunk.css.map"
+  "main.css": "/rss-mentor-dashboard/static/css/main.a7ed9fe4.chunk.css",
+  "main.js": "/rss-mentor-dashboard/static/js/main.f4b74e29.chunk.js",
+  "main.js.map": "/rss-mentor-dashboard/static/js/main.f4b74e29.chunk.js.map",
+  "runtime~main.js": "/rss-mentor-dashboard/static/js/runtime~main.5280a2c0.js",
+  "runtime~main.js.map": "/rss-mentor-dashboard/static/js/runtime~main.5280a2c0.js.map",
+  "static/js/2.ba192e9f.chunk.js": "/rss-mentor-dashboard/static/js/2.ba192e9f.chunk.js",
+  "static/js/2.ba192e9f.chunk.js.map": "/rss-mentor-dashboard/static/js/2.ba192e9f.chunk.js.map",
+  "index.html": "/rss-mentor-dashboard/index.html",
+  "precache-manifest.7b6830260fb08a8f66e8e3890ea5d837.js": "/rss-mentor-dashboard/precache-manifest.7b6830260fb08a8f66e8e3890ea5d837.js",
+  "service-worker.js": "/rss-mentor-dashboard/service-worker.js",
+  "static/css/main.a7ed9fe4.chunk.css.map": "/rss-mentor-dashboard/static/css/main.a7ed9fe4.chunk.css.map"
 }
